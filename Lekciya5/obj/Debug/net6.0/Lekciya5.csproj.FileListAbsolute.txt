@@ -1,0 +1,15 @@
+D:\GitLessons\SeminarsC#\Lekciya5\bin\Debug\net6.0\Lekciya5.exe
+D:\GitLessons\SeminarsC#\Lekciya5\bin\Debug\net6.0\Lekciya5.deps.json
+D:\GitLessons\SeminarsC#\Lekciya5\bin\Debug\net6.0\Lekciya5.runtimeconfig.json
+D:\GitLessons\SeminarsC#\Lekciya5\bin\Debug\net6.0\Lekciya5.dll
+D:\GitLessons\SeminarsC#\Lekciya5\bin\Debug\net6.0\Lekciya5.pdb
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.csproj.AssemblyReference.cache
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.AssemblyInfoInputs.cache
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.AssemblyInfo.cs
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.csproj.CoreCompileInputs.cache
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.dll
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\refint\Lekciya5.dll
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.pdb
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\Lekciya5.genruntimeconfig.cache
+D:\GitLessons\SeminarsC#\Lekciya5\obj\Debug\net6.0\ref\Lekciya5.dll
